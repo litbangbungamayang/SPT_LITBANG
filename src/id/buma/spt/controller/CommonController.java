@@ -124,7 +124,7 @@ public class CommonController {
                     0.00, 
                     tglAnalisa, 
                     "", 
-                    "Operator Tanaman", 
+                    "Askep Litbang", 
                     updateTime, 
                     0
             );

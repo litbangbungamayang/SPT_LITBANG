@@ -22,6 +22,10 @@ public class VersionController {
 
     public String getVersion() {
         version = "1.0.23052018.1010";
+        version = "1.0.29052018.1733";
+        /*
+        *+ Perubahan nama User, dari Operator Tanaman menjadi Askep Litbang
+        */
         return version;
     }
 
